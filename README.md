@@ -96,7 +96,5 @@ Ensinar profissionais de QA como usar o Azure DevOps no dia a dia, incluindo **g
 * Mostre **passo a passo na tela** (gravação de tela com narração).
 * No final de cada módulo, faça um resumo ou mini quiz.
 
----
 
-Se quiser, posso montar **roteiros prontos para os primeiros vídeos**, incluindo o que mostrar na tela, o que falar, e até comandos e exemplos reais de testes. Só me avisar!
 
